@@ -43,7 +43,7 @@ function ExpertPoll() {
   return (
     <div className="p-4 sm:p-8 flex flex-col gap-4 bg-lightGray rounded-3xl border-primary border-2">
       <h4 className="text-2xl text-heading font-bold py-2">
-        4. <span className="ps-6">Expert Pool of the Campaign</span>
+        4.<span className="ps-2 md:ps-6">Expert Pool of the Campaign</span>
       </h4>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-around gap-6">

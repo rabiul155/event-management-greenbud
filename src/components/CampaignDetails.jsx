@@ -10,7 +10,7 @@ function CampaignDetails() {
   return (
     <div className="p-4 sm:p-8 flex flex-col gap-4 bg-lightGray">
       <h4 className="text-2xl text-heading font-bold py-2">
-        3. <span className="ps-6">Campaign Details</span>
+        3.<span className="ps-2 md:ps-6">Campaign Details</span>
       </h4>
       <div className="flex flex-col gap-2 text-justify">
         <div className="flex flex-col gap-2">
