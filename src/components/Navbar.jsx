@@ -41,7 +41,7 @@ function Navbar() {
               <Image src={logo} className="w-36 sm:w-56" alt="logo" />
             </div>
             <div>
-              <ActionButton className="font-semibold rounded-full px-4 py-2 sm:px-8 sm:py-3">Register Now</ActionButton>
+              <ActionButton className="font-medium rounded-full px-4 py-2 sm:px-8 sm:py-3">Register Now</ActionButton>
             </div>
           </div>
         </div>
