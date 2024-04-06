@@ -20,7 +20,7 @@ function CampaignDetails() {
             </span>
             <span className="text-lg text-primary font-semibold">Call for Entries:</span>
           </h6>
-          <p className="font-semibold ">
+          <p>
             Local enterprises and entrepreneurs engaged in the field of sanitation and waste management are cordially
             invited to submit their exemplary practices for consideration in our esteemed competition.
           </p>
@@ -32,7 +32,7 @@ function CampaignDetails() {
             </span>
             <span className="text-lg text-primary font-semibold">Initial Screening:</span>
           </h6>
-          <p className="font-semibold ">
+          <p>
             Submissions will undergo an initial screening process to ensure adherence to eligibility criteria and
             completeness of documentation.
           </p>
@@ -46,7 +46,7 @@ function CampaignDetails() {
                 </span>
                 <span className="text-lg text-primary font-semibold">Judging Process:</span>
               </h6>
-              <p className="font-semibold ">
+              <p>
                 Following the initial screening, eligible entries will be meticulously evaluated by a distinguished
                 panel of experts, who will assess them based on stringent criteria including innovation, environmental
                 sustainability, social impact, scalability, financial viability, and relevant regulatory compliance
@@ -60,7 +60,7 @@ function CampaignDetails() {
                 </span>
                 <span className="text-lg text-primary font-semibold">Shortlisting:</span>
               </h6>
-              <p className="font-semibold ">
+              <p>
                 Based on the judging process, a number of outstanding submissions will be shortlisted for further
                 consideration.
               </p>
@@ -72,7 +72,7 @@ function CampaignDetails() {
                 </span>
                 <span className="text-lg text-primary font-semibold">Grooming Session:</span>
               </h6>
-              <p className="font-semibold ">
+              <p>
                 Shortlisted participants will have the opportunity to attend a specialized grooming session as part of
                 this campaign, where they will receive valuable insights, guidance, and mentorship to help them improve
                 their proposals and presentation skills. Upon successfully completing the grooming sessions, the
@@ -88,7 +88,7 @@ function CampaignDetails() {
                 </span>
                 <span className="text-lg text-primary font-semibold">Final Selection:</span>
               </h6>
-              <p className="font-semibold ">
+              <p>
                 After the grooming session, the shortlisted participants will proceed to the final selection round,
                 where they will present their refined proposals to the judging panel.
               </p>
@@ -100,7 +100,7 @@ function CampaignDetails() {
                 </span>
                 <span className="text-lg text-primary font-semibold">Winners Announcement:</span>
               </h6>
-              <p className="font-semibold ">
+              <p>
                 From the final selection round, three deserving champions will be honoured with awards in recognition of
                 their exceptional contributions to the field of sanitation and waste management.
               </p>
@@ -112,7 +112,7 @@ function CampaignDetails() {
                 </span>
                 <span className="text-lg text-primary font-semibold">Way forward:</span>
               </h6>
-              <p className="font-semibold ">
+              <p>
                 Out of three champions, at least two will be receiving further assistance in accessing concessional
                 finance from commercial banks through networking and linkage events.
               </p>

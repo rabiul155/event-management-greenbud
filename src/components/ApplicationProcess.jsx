@@ -7,17 +7,19 @@ function ApplicationProcess() {
         6.<span className="ps-2 md:ps-6">Application Process:</span>
       </h4>
       <div className="flex flex-col gap-4 text-justify">
-        <div className="font-semibold">
+        <div className="">
           Individuals/Organizations that fulfil the conditions of required criteria mentioned in this document can apply
           for the competition under ”Bridging Between Sanitation & Waste Management Enterprises and Financial
           Institutions” program. The application should be submitted electronically by filling out the EOI form along
-          with proposal documents and supporting documents as attachment to{' '}
-          <span className="text-primary underline">support@greenbudbd.com</span>.
+          with proposal documents and supporting documents i.e{' '}
+          <span className=" font-semibold">
+            Soft copy of NID, Soft copy of passport size photo, Soft copy of trade license (if available), Soft copy of
+            utility bill (recent electricity bill or the agreement copy if shop/factory is rented).
+          </span>{' '}
+          as attachment to <span className="text-primary underline">support@greenbudbd.com</span>.
         </div>
         <div className="flex flex-col gap-4">
-          <h6 className="font-semibold">
-            For further information, individuals/organizations can seek further information or clarification to:
-          </h6>
+          <h6>For further information, individuals/organizations can seek further information or clarification to:</h6>
           <div className="flex flex-col md:flex-row justify-center md:justify-around gap-4">
             <address className="font-semibold text-sm">
               <span className="text-heading text-base">L. M. Sirajus Salekin</span>

@@ -1,7 +1,7 @@
-import { Poppins } from 'next/font/google'
+import { Noto_Serif_Georgian } from 'next/font/google'
 import './globals.css'
 
-const poppins = Poppins({
+const georgian = Noto_Serif_Georgian({
   weight: ['400', '500', '600', '700', '800', '900'],
   style: ['normal'],
   subsets: ['latin'],
@@ -15,7 +15,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={poppins.className}>
+      <body className={georgian.className}>
         <main className="h-screen overflow-y-scroll">{children}</main>
       </body>
     </html>

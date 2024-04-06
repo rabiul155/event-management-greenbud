@@ -17,7 +17,7 @@ function ParticipatingCriteria() {
           <span>
             <IoMdArrowDropright className="block text-primary h-6 w-6" />
           </span>
-          <span className="font-semibold">
+          <span>
             The campaign is open to CMSMEs and Women Entrepreneurs of all sizes operating only in the sanitation and
             waste management sectors.
           </span>
@@ -26,7 +26,7 @@ function ParticipatingCriteria() {
           <span>
             <IoMdArrowDropright className="block text-primary h-6 w-6" />
           </span>
-          <span className="font-semibold">
+          <span>
             Participants must showcase tangible business practices or initiatives that have positively impacted
             sanitation and waste management sectors.
           </span>
@@ -37,15 +37,13 @@ function ParticipatingCriteria() {
               <span>
                 <IoMdArrowDropright className="block text-primary h-6 w-6" />
               </span>
-              <span className="font-semibold">
-                Demonstrate compliance with relevant environmental regulations and standards.
-              </span>
+              <span>Demonstrate compliance with relevant environmental regulations and standards.</span>
             </p>
             <p className="flex items-start gap-2">
               <span>
                 <IoMdArrowDropright className="block text-primary h-6 w-6" />
               </span>
-              <span className="font-semibold">
+              <span>
                 Explanation of how OHS and workers dignity are safeguarded in the workplace. How gender equity and women
                 empowerment are considered in the business.
               </span>
@@ -54,7 +52,7 @@ function ParticipatingCriteria() {
               <span>
                 <IoMdArrowDropright className="block text-primary h-6 w-6" />
               </span>
-              <span className="font-semibold">
+              <span>
                 Demonstrate good sanitation and waste management practices such as waste reduction, recycling, resource
                 recovery, pollution prevention, and community engagement.
               </span>
@@ -63,7 +61,7 @@ function ParticipatingCriteria() {
               <span>
                 <IoMdArrowDropright className="block text-primary h-6 w-6" />
               </span>
-              <span className="font-semibold">
+              <span>
                 Outline plans for potential business expansion in sanitation and waste management. This could include
                 strategies for scaling up existing initiatives, entering new markets, collaborating with stakeholders,
                 or implementing innovative technologies to promote growth and sustainability.
@@ -73,7 +71,7 @@ function ParticipatingCriteria() {
               <span>
                 <IoMdArrowDropright className="block text-primary h-6 w-6" />
               </span>
-              <span className="font-semibold">
+              <span>
                 Participants are encouraged to highlight innovative solutions of their bankable business model that
                 demonstrate scalability and potential for replication in various contexts or locations. This could
                 include creating scalable business models, technologies, or approaches that can be adapted to different

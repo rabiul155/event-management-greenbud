@@ -5,7 +5,7 @@ import { CgFacebook } from 'react-icons/cg'
 import { BsInstagram } from 'react-icons/bs'
 import Image from 'next/image'
 import logo from '../../public/logo.png'
-import ActionButton from './ActionButton'
+import action from '../../public/action.png'
 
 function Navbar() {
   return (
@@ -41,13 +41,7 @@ function Navbar() {
               <Image src={logo} className="w-36 sm:w-56" alt="logo" />
             </div>
             <div>
-              <a
-                className="w-auto bg-primary text-white inline-flex justify-center items-center border-2 border-transparent text-sm shadow-lg transition duration-200 hover:bg-primaryDark font-medium rounded-full px-4 py-2 sm:px-8 sm:py-3"
-                href="https://docs.google.com/document/d/1RULMIjNf2Pj3iKQunx1DiR8OtR1vypGGEJMxb_a2jss/edit"
-                target="_blank"
-              >
-                Register Now
-              </a>
+              <Image src={action} className="w-24 " alt="action" />
             </div>
           </div>
         </div>

@@ -24,6 +24,7 @@ export default function Home() {
           <Timeline />
           <ApplicationProcess />
           <Disclaimer />
+          <Download />
         </div>
       </div>
     </div>
