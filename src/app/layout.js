@@ -8,8 +8,8 @@ const georgian = Noto_Serif_Georgian({
 })
 
 export const metadata = {
-  title: 'GreenBud Event',
-  description: 'Event by GreenBud',
+  title: 'Green & Sustainable Business Campaign',
+  description: 'Green & Sustainable Business Campaign',
 }
 
 export default function RootLayout({ children }) {

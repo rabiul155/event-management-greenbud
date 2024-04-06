@@ -11,14 +11,14 @@ function Download() {
         download
         target="_blank"
       >
-        Register Now
+        Apply Now
       </a>
       <a
         href="/EOI_DOC/EOI_Campaign.docx"
         className="w-auto inline-flex justify-center items-center text-sm font-semibold shadow-lg transition duration-200 hover:bg-primaryDark hover:text-white text-secondary rounded-full border-2 border-secondary bg-white px-4 py-3"
         download
       >
-        Download Application Form <span>(english)</span>
+        Download Application Form <span>(English)</span>
       </a>
 
       <a
@@ -26,7 +26,7 @@ function Download() {
         className="w-auto inline-flex justify-center items-center text-sm font-semibold shadow-lg transition duration-200 hover:bg-primaryDark hover:text-white text-secondary rounded-full border-2 border-secondary bg-white px-4 py-3"
         download
       >
-        Download Application Form <span>(bangla)</span>
+        Download Application Form <span>(Bangla)</span>
       </a>
     </div>
   )
