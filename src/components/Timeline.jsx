@@ -23,7 +23,7 @@ function Timeline() {
           </span>
           <span className="font-semibold text-lg">
             EOI submission deadline from participants by
-            <span className="text-light text-xl px-2">18th April 2024</span>
+            <span className="text-light text-xl px-2">9th May 2024</span>
           </span>
         </h6>
         <h6 className="flex items-start gap-2">
@@ -31,7 +31,7 @@ function Timeline() {
             <IoMdArrowDropright className="block text-primary  h-6 w-6" />
           </span>
           <span className="font-semibold text-lg">
-            Shortlisting of participants by<span className="text-light text-xl px-2">21st April 2024</span>
+            Shortlisting of participants by<span className="text-light text-xl px-2">16th May 2024</span>
           </span>
         </h6>
         <h6 className="flex items-start gap-2">
@@ -40,7 +40,7 @@ function Timeline() {
           </span>
           <span className="font-semibold text-lg">
             Grooming session and final selection round by
-            <span className="text-light text-xl px-2">25th April 2024</span>
+            <span className="text-light text-xl px-2">23rd May 2024</span>
           </span>
         </h6>
         <h6 className="flex items-start gap-2">
@@ -49,7 +49,7 @@ function Timeline() {
           </span>
           <span className="font-semibold text-lg">
             Winners announcement and awarding ceremony on
-            <span className="text-light text-xl px-2"> 30th April 2024</span>
+            <span className="text-light text-xl px-2">30th May 2024</span>
           </span>
         </h6>
       </div>
